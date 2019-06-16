@@ -1,0 +1,7 @@
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\bin\Debug\DPC_for_csharp.exe.config
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\bin\Debug\DPC_for_csharp.exe
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\bin\Debug\DPC_for_csharp.pdb
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\obj\Debug\DPC_for_csharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\obj\Debug\DPC_for_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\obj\Debug\DPC_for_csharp.exe
+C:\Users\Administrator\Source\Repos\DPC_for_csharp\DPC_for_csharp\obj\Debug\DPC_for_csharp.pdb
